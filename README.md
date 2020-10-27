@@ -1,2 +1,2 @@
 # SnakeLocomotion
-faild (2018)
+failed (2018)
